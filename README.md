@@ -19,12 +19,6 @@
 
 ---
 
-### 🌟 Featured Projects:
-- **[generic_front](https://github.com/mprychyna/generic_front):** A modern frontend project powered by React and TypeScript.
-- **[use-react-screenshot](https://github.com/mprychyna/use-react-screenshot):** A simple and flexible screenshot hook for React apps.
-
----
-
 ### 🌐 Connect with Me:
 - ✉️ Email: [m.prichina@gmail.com](mailto:m.prichina@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/maksym-prychyna-80428786/](https://www.linkedin.com/in/maksym-prychyna-80428786/))
