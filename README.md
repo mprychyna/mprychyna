@@ -13,12 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mprychyna&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mprychyna&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect with Me:
 - ✉️ Email: [m.prichina@gmail.com](mailto:m.prichina@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/maksym-prychyna-80428786/](https://www.linkedin.com/in/maksym-prychyna-80428786/))
